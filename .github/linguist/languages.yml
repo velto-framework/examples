@@ -1,0 +1,5 @@
+Velto:
+  type: programming
+  color: "#2d5c8a"
+  extensions:
+    - ".velto"
