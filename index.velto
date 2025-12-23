@@ -1,5 +1,6 @@
 <velto>
-
+   <content>
+    
     <hero style="padding: 3rem; text-align: center;">
         <title1>Velto Framework</title1>
         <text2>A lightweight declarative UI language</text2>
@@ -25,5 +26,6 @@
     <footer style="text-align:center; padding: 2rem; color:#666;">
         <text3>MIT Licensed — Velto Framework</text3>
     </footer>
-
+    
+   </content>
 </velto>
