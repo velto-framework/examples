@@ -1,31 +1,28 @@
 <velto>
-   <content>
-    
+  <content>
+
     <hero style="padding: 3rem; text-align: center;">
-        <title1>Velto Framework</title1>
-        <text2>A lightweight declarative UI language</text2>
+      <title1>Velto Framework</title1>
+      <text2>A lightweight declarative UI language</text2>
     </hero>
 
     <vstack style="gap: 1.5rem; padding: 2rem; max-width: 600px; margin: 0 auto;">
 
+      <title2>Example Velto code</title2>
 
-        <title2>Example Velto code</title2>
-
-        <section>
-            <title2>Get Involved</title2>
-            <text2>
-                Velto is open‑source and community‑driven.
-            </text2>
-            <button on-click:redirect="https://github.com/velto-framework/velto-framework.github.io/fork">
-                Contribute on GitHub
-            </button>
-        </section>
+      <section>
+        <title2>Get Involved</title2>
+        <text2>Velto is open‑source and community‑driven.</text2>
+        <button on-click:redirect="https://github.com/velto-framework/velto-framework.github.io/fork">
+          Contribute on GitHub
+        </button>
+      </section>
 
     </vstack>
 
     <footer style="text-align:center; padding: 2rem; color:#666;">
-        <text3>MIT Licensed — Velto Framework</text3>
+      <text3>Apache 2.0 Licensed — Velto Framework</text3>
     </footer>
-    
-   </content>
+
+  </content>
 </velto>
